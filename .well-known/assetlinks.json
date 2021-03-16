@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gorafeeq.qatar",
+      "sha256_cert_fingerprints":
+      ["47:4A:27:9C:0B:4C:64:A5:D4:BA:F8:F9:EF:4B:C8:F0:7E:F5:03:90:29:E5:46:65:18:CF:EF:2E:7F:98:74:3F"]
+    }
+  }]
